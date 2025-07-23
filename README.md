@@ -1,3 +1,3 @@
 # Ankushjaindemo
 This is my first repository
-Author Ankush Jain
+Author Ankush Jain BTech AI
